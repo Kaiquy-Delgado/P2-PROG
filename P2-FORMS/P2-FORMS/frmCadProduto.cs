@@ -126,5 +126,28 @@ namespace P2_FORMS
             lstProdutos.ClearSelected();
         }
 
+        private void lstProdutos_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (lstProdutos.SelectedItem == null) return;
+
+            string linhaSelecionada = lstProdutos.SelectedItem.ToString();
+            string codigoSelecionado = linhaSelecionada.Split('-')[0].Trim();
+
+            if (!File.Exists(caminhoArquivo)) return;
+
+            var linhas = File.ReadAllLines(caminhoArquivo);
+            foreach (var linha in linhas)
+            {
+                var dados = linha.Split(',');
+                if (dados[0] == codigoSelecionado)
+                {
+                    txtCodigo.Text = dados[0];
+                    txtNome.Text = dados[1];
+                    txtPreco.Text = dados[2];
+                    txtDescricao.Text = dados[3];
+                    break;
+                }
+            }
+        }
     }
 }

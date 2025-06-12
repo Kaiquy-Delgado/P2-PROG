@@ -143,6 +143,7 @@
             lstProdutos.Name = "lstProdutos";
             lstProdutos.Size = new Size(326, 104);
             lstProdutos.TabIndex = 11;
+            lstProdutos.SelectedIndexChanged += lstProdutos_SelectedIndexChanged;
             // 
             // frmCadProduto
             // 
