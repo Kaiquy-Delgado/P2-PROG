@@ -112,5 +112,10 @@ namespace P2_FORMS
             LimparCampos();
             CarregarProdutos();
         }
+
+        private void btnLimpar_Click(object sender, EventArgs e)
+        {
+            LimparCampos();
+        }
     }
 }
