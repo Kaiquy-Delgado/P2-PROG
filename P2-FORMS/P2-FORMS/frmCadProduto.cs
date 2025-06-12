@@ -93,5 +93,24 @@ namespace P2_FORMS
             LimparCampos();
             CarregarProdutos();
         }
+
+        private void btnExcluir_Click(object sender, EventArgs e)
+        {
+            string codigo = txtCodigo.Text.Trim();
+            if (string.IsNullOrEmpty(codigo))
+            {
+                MessageBox.Show("Digite o código do produto a ser excluído.");
+                return;
+            }
+
+            if (!File.Exists(caminhoArquivo)) return;
+
+            var linhas = File.ReadAllLines(caminhoArquivo).Where(l => !l.StartsWith(codigo + ",")).ToList();
+            File.WriteAllLines(caminhoArquivo, linhas);
+
+            MessageBox.Show("Produto excluído com sucesso.");
+            LimparCampos();
+            CarregarProdutos();
+        }
     }
 }
