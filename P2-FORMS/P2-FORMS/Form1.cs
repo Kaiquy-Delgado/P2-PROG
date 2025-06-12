@@ -17,8 +17,14 @@ namespace P2_FORMS
         {
             InitializeComponent();
             usuarioLogado = usuario;
+            lblUsuario.Text = $"Usuário: {usuarioLogado}";
 
+            if (usuarioLogado != "ADMIN")
+            {
+                btnUsuario.Enabled = false;
+            }
         }
+
 
         private void Form1_Load(object sender, EventArgs e)
         {
