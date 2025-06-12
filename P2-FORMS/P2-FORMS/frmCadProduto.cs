@@ -117,5 +117,14 @@ namespace P2_FORMS
         {
             LimparCampos();
         }
+        private void LimparCampos()
+        {
+            txtCodigo.Clear();
+            txtNome.Clear();
+            txtPreco.Clear();
+            txtDescricao.Clear();
+            lstProdutos.ClearSelected();
+        }
+
     }
 }
