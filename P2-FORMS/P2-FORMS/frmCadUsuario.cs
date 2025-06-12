@@ -32,16 +32,14 @@ namespace P2_FORMS
 
             var linhas = File.ReadAllLines(caminho);
 
-            foreach (string linha in linhas.Skip(1)) // pula o cabeçalho
+            foreach (string linha in linhas.Skip(1))
             {
                 string[] dados = linha.Split(',');
                 if (dados.Length >= 2)
                 {
-                    lstUsuarios.Items.Add(dados[0]); // adiciona só o nome do usuário
+                    lstUsuarios.Items.Add(dados[0]);
                 }
             }
-        }
-
         }
 
         private void LimparCampos()
