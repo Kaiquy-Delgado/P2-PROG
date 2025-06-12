@@ -12,9 +12,13 @@ namespace P2_FORMS
 {
     public partial class frmCadPedido: Form
     {
-        public frmCadPedido()
+        private string usuarioLogado;
+
+        public frmCadPedido(string usuario)
         {
             InitializeComponent();
+            usuarioLogado = usuario;
         }
     }
+}
 }

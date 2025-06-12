@@ -30,5 +30,29 @@ namespace P2_FORMS
         {
 
         }
+
+        private void btnCliente_Click(object sender, EventArgs e)
+        {
+            frmCadCliente cliente = new frmCadCliente();
+            cliente.ShowDialog();
+        }
+
+        private void btnProduto_Click(object sender, EventArgs e)
+        {
+            frmCadProduto produto = new frmCadProduto();
+            produto.ShowDialog();
+        }
+
+        private void btnPedido_Click(object sender, EventArgs e)
+        {
+            frmCadPedido pedido = new frmCadPedido(usuarioLogado); // passamos o usuário se necessário
+            pedido.ShowDialog();
+        }
+
+        private void btnUsuario_Click(object sender, EventArgs e)
+        {
+            frmCadUsuario usuario = new frmCadUsuario();
+            usuario.ShowDialog();
+        }
     }
 }
