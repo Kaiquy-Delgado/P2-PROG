@@ -93,6 +93,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ActiveBorder;
             ClientSize = new Size(830, 503);
             Controls.Add(btnEntrar);
             Controls.Add(txtSenha);
