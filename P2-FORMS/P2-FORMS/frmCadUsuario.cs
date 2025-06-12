@@ -150,5 +150,10 @@ namespace P2_FORMS
                 }
             }
         }
+
+        private void btnLimpar_Click(object sender, EventArgs e)
+        {
+            LimparCampos();
+        }
     }
 }

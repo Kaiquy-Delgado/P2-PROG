@@ -108,6 +108,7 @@
             btnLimpar.TabIndex = 7;
             btnLimpar.Text = "Limpar Campos";
             btnLimpar.UseVisualStyleBackColor = true;
+            btnLimpar.Click += btnLimpar_Click;
             // 
             // frmCadUsuario
             // 
