@@ -129,5 +129,26 @@ namespace P2_FORMS
             LimparCampos();
             MessageBox.Show("Usuário excluído com sucesso.");
         }
+
+        private void lstUsuarios_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string usuario = lstUsuarios.SelectedItem?.ToString();
+            if (string.IsNullOrEmpty(usuario))
+                return;
+
+            string caminho = Path.Combine(Application.StartupPath, "usuarios.csv");
+            var linhas = File.ReadAllLines(caminho);
+
+            foreach (string linha in linhas.Skip(1))
+            {
+                string[] dados = linha.Split(',');
+                if (dados[0] == usuario)
+                {
+                    txtUsuario.Text = dados[0];
+                    txtSenha.Text = dados[1];
+                    break;
+                }
+            }
+        }
     }
 }

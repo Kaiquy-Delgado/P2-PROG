@@ -78,6 +78,7 @@
             lstUsuarios.Name = "lstUsuarios";
             lstUsuarios.Size = new Size(736, 224);
             lstUsuarios.TabIndex = 4;
+            lstUsuarios.SelectedIndexChanged += lstUsuarios_SelectedIndexChanged;
             // 
             // btnSalvar
             // 
