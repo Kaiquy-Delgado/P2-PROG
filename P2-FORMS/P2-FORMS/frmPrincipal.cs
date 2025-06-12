@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace P2_FORMS
 {
-    public partial class Form1 : Form
+    public partial class frmPrincipal : Form
     {
         string usuarioLogado;
-        public Form1(string usuario)
+        public frmPrincipal(string usuario)
         {
             InitializeComponent();
             usuarioLogado = usuario;
@@ -45,7 +45,7 @@ namespace P2_FORMS
 
         private void btnPedido_Click(object sender, EventArgs e)
         {
-            frmCadPedido pedido = new frmCadPedido(usuarioLogado); // passamos o usuário se necessário
+            frmCadPedido pedido = new frmCadPedido(usuarioLogado);
             pedido.ShowDialog();
         }
 
@@ -53,6 +53,7 @@ namespace P2_FORMS
         {
             frmCadUsuario usuario = new frmCadUsuario();
             usuario.ShowDialog();
+            
         }
     }
 }

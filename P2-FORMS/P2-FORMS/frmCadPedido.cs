@@ -19,6 +19,10 @@ namespace P2_FORMS
             InitializeComponent();
             usuarioLogado = usuario;
         }
+
+        private void frmCadPedido_Load(object sender, EventArgs e)
+        {
+            
+        }
     }
-}
 }

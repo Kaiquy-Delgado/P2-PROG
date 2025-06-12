@@ -65,7 +65,7 @@ namespace P2_FORMS
 
         private void AbrirPrincipal(string usuario)
         {
-            Form1 principal = new Form1(usuario);
+            frmPrincipal principal = new frmPrincipal(usuario);
             principal.Show();
             this.Hide();
         }

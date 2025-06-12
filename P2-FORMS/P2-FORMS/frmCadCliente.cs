@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace P2_FORMS
 {
-    public partial class frmCadCliente: Form
+    public partial class frmCadCliente : Form
     {
         public frmCadCliente()
         {
             InitializeComponent();
+        }
+
+        private void frmCadCliente_Load(object sender, EventArgs e)
+        {
+            
         }
     }
 }

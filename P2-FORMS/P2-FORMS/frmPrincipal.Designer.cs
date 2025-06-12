@@ -1,6 +1,6 @@
 ﻿namespace P2_FORMS
 {
-    partial class Form1
+    partial class frmPrincipal
     {
         /// <summary>
         /// Required designer variable.
@@ -52,6 +52,7 @@
             btnCliente.TabIndex = 1;
             btnCliente.Text = "Cadastrar Cliente";
             btnCliente.UseVisualStyleBackColor = true;
+            btnCliente.Click += btnCliente_Click;
             // 
             // btnProduto
             // 
@@ -61,6 +62,7 @@
             btnProduto.TabIndex = 2;
             btnProduto.Text = "Cadastrar Produto";
             btnProduto.UseVisualStyleBackColor = true;
+            btnProduto.Click += btnProduto_Click;
             // 
             // btnPedido
             // 
@@ -70,6 +72,7 @@
             btnPedido.TabIndex = 3;
             btnPedido.Text = "Cadastrar Pedido";
             btnPedido.UseVisualStyleBackColor = true;
+            btnPedido.Click += btnPedido_Click;
             // 
             // btnUsuario
             // 
@@ -79,8 +82,9 @@
             btnUsuario.TabIndex = 4;
             btnUsuario.Text = "Cadastrar Usuário";
             btnUsuario.UseVisualStyleBackColor = true;
+            btnUsuario.Click += btnUsuario_Click;
             // 
-            // Form1
+            // frmPrincipal
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -90,7 +94,7 @@
             Controls.Add(btnProduto);
             Controls.Add(btnCliente);
             Controls.Add(lblUsuario);
-            Name = "Form1";
+            Name = "frmPrincipal";
             Text = "Form1";
             Load += Form1_Load;
             ResumeLayout(false);

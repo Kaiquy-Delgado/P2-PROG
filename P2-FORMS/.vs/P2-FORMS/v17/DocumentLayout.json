@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|c:\\users\\kagab\\source\\repos\\p2-prog\\p2-forms\\p2-forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|solutionrelative:p2-forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|c:\\users\\kagab\\source\\repos\\p2-prog\\p2-forms\\p2-forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|solutionrelative:p2-forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|c:\\users\\kagab\\source\\repos\\p2-prog\\p2-forms\\p2-forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|solutionrelative:p2-forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|c:\\users\\kagab\\source\\repos\\p2-prog\\p2-forms\\p2-forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|solutionrelative:p2-forms\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|c:\\users\\kagab\\source\\repos\\p2-prog\\p2-forms\\p2-forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|solutionrelative:p2-forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|c:\\users\\kagab\\source\\repos\\p2-prog\\p2-forms\\p2-forms\\frmcadusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|solutionrelative:p2-forms\\frmcadusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\p2-forms\\frmcadusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|solutionrelative:p2-forms\\frmcadusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|c:\\users\\kagab\\source\\repos\\p2-prog\\p2-forms\\p2-forms\\frmcadusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|solutionrelative:p2-forms\\frmcadusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|c:\\users\\kagab\\source\\repos\\p2-prog\\p2-forms\\p2-forms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +29,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\p2-forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|solutionrelative:p2-forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|c:\\users\\kagab\\source\\repos\\p2-prog\\p2-forms\\p2-forms\\frmcadcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|solutionrelative:p2-forms\\frmcadcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|c:\\users\\kagab\\source\\repos\\p2-prog\\p2-forms\\p2-forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|solutionrelative:p2-forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|c:\\users\\kagab\\source\\repos\\p2-prog\\p2-forms\\p2-forms\\frmcadcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{969E04F5-ED66-4D91-9295-390649C669AB}|P2-FORMS\\P2-FORMS.csproj|solutionrelative:p2-forms\\frmcadcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,45 +58,108 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmLogin.cs",
-              "RelativeDocumentMoniker": "P2-FORMS\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmLogin.cs",
-              "RelativeToolTip": "P2-FORMS\\frmLogin.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwEMAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "frmCadCliente.cs",
+              "DocumentMoniker": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmCadCliente.cs",
+              "RelativeDocumentMoniker": "P2-FORMS\\frmCadCliente.cs",
+              "ToolTip": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmCadCliente.cs",
+              "RelativeToolTip": "P2-FORMS\\frmCadCliente.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:53:23.808Z",
+              "WhenOpened": "2025-06-12T22:20:21.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmCadCliente.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmCadCliente.cs",
+              "RelativeDocumentMoniker": "P2-FORMS\\frmCadCliente.cs",
+              "ToolTip": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmCadCliente.cs [Projeto]",
+              "RelativeToolTip": "P2-FORMS\\frmCadCliente.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T22:15:57.456Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCadUsuario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmCadUsuario.Designer.cs",
+              "RelativeDocumentMoniker": "P2-FORMS\\frmCadUsuario.Designer.cs",
+              "ToolTip": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmCadUsuario.Designer.cs",
+              "RelativeToolTip": "P2-FORMS\\frmCadUsuario.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:50:34.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\Form1.cs",
-              "RelativeDocumentMoniker": "P2-FORMS\\Form1.cs",
-              "ToolTip": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\Form1.cs",
-              "RelativeToolTip": "P2-FORMS\\Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAEwAwAAAAeAAAAAAAAAA==",
+              "Title": "frmCadUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmCadUsuario.cs",
+              "RelativeDocumentMoniker": "P2-FORMS\\frmCadUsuario.cs",
+              "ToolTip": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmCadUsuario.cs",
+              "RelativeToolTip": "P2-FORMS\\frmCadUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:37:54.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "P2-FORMS\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmPrincipal.cs*",
+              "RelativeToolTip": "P2-FORMS\\frmPrincipal.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAA1wCoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T14:44:37.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCadUsuario.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmCadUsuario.cs",
+              "RelativeDocumentMoniker": "P2-FORMS\\frmCadUsuario.cs",
+              "ToolTip": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmCadUsuario.cs [Projeto]",
+              "RelativeToolTip": "P2-FORMS\\frmCadUsuario.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:17:21.29Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmLogin.cs",
+              "RelativeDocumentMoniker": "P2-FORMS\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmLogin.cs",
+              "RelativeToolTip": "P2-FORMS\\frmLogin.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:53:23.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\Form1.cs",
-              "RelativeDocumentMoniker": "P2-FORMS\\Form1.cs",
-              "ToolTip": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\Form1.cs [Projeto]",
-              "RelativeToolTip": "P2-FORMS\\Form1.cs [Projeto]",
+              "Title": "frmPrincipal.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "P2-FORMS\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmPrincipal.cs [Projeto]*",
+              "RelativeToolTip": "P2-FORMS\\frmPrincipal.cs [Projeto]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T14:37:00.217Z",
               "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\Program.cs",
               "RelativeDocumentMoniker": "P2-FORMS\\Program.cs",
@@ -84,11 +167,12 @@
               "RelativeToolTip": "P2-FORMS\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T02:13:32.754Z"
+              "WhenOpened": "2025-06-12T02:13:32.754Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "frmLogin.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\kagab\\source\\repos\\P2-PROG\\P2-FORMS\\P2-FORMS\\frmLogin.cs",
               "RelativeDocumentMoniker": "P2-FORMS\\frmLogin.cs",
