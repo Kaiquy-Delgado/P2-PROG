@@ -33,12 +33,14 @@
             btnProduto = new Button();
             btnPedido = new Button();
             btnUsuario = new Button();
+            label1 = new Label();
+            label2 = new Label();
             SuspendLayout();
             // 
             // lblUsuario
             // 
             lblUsuario.AutoSize = true;
-            lblUsuario.Location = new Point(338, 66);
+            lblUsuario.Location = new Point(336, 52);
             lblUsuario.Name = "lblUsuario";
             lblUsuario.Size = new Size(59, 20);
             lblUsuario.TabIndex = 0;
@@ -84,11 +86,32 @@
             btnUsuario.UseVisualStyleBackColor = true;
             btnUsuario.Click += btnUsuario_Click;
             // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(383, 140);
+            label1.Name = "label1";
+            label1.Size = new Size(134, 20);
+            label1.TabIndex = 5;
+            label1.Text = "(Não Programado)";
+            label1.Click += this.label1_Click;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(92, 140);
+            label2.Name = "label2";
+            label2.Size = new Size(134, 20);
+            label2.TabIndex = 6;
+            label2.Text = "(Não Programado)";
+            // 
             // frmPrincipal
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(label2);
+            Controls.Add(label1);
             Controls.Add(btnUsuario);
             Controls.Add(btnPedido);
             Controls.Add(btnProduto);
@@ -108,5 +131,7 @@
         private Button btnProduto;
         private Button btnPedido;
         private Button btnUsuario;
+        private Label label1;
+        private Label label2;
     }
 }
