@@ -10,19 +10,11 @@ using System.Windows.Forms;
 
 namespace P2_FORMS
 {
-    public partial class Form1 : Form
+    public partial class frmCadCliente: Form
     {
-        string usuarioLogado;
-        public Form1(string usuario)
+        public frmCadCliente()
         {
             InitializeComponent();
-            usuarioLogado = usuario;
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
