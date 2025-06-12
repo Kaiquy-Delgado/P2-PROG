@@ -78,7 +78,7 @@ namespace P2_FORMS
                     string[] dados = linhas[i].Split(',');
                     if (dados[0] == usuario)
                     {
-                        linhas[i] = $"{usuario},{senha}"; 
+                        linhas[i] = $"{usuario},{senha}";
                         atualizado = true;
                         break;
                     }
@@ -93,6 +93,41 @@ namespace P2_FORMS
             LimparCampos();
 
             MessageBox.Show(atualizado ? "Senha atualizada." : "Usuário cadastrado.");
+        }
+
+        private void btnExcluir_Click(object sender, EventArgs e)
+        {
+            string usuarioSelecionado = lstUsuarios.SelectedItem?.ToString();
+
+            if (string.IsNullOrEmpty(usuarioSelecionado))
+            {
+                MessageBox.Show("Selecione um usuário para excluir.");
+                return;
+            }
+
+            if (usuarioSelecionado == "ADMIN")
+            {
+                MessageBox.Show("O usuário ADMIN não pode ser excluído.");
+                return;
+            }
+
+            string caminho = Path.Combine(Application.StartupPath, "usuarios.csv");
+            var linhas = File.ReadAllLines(caminho).ToList();
+
+            for (int i = 1; i < linhas.Count; i++)
+            {
+                string[] dados = linhas[i].Split(',');
+                if (dados[0] == usuarioSelecionado)
+                {
+                    linhas.RemoveAt(i);
+                    break;
+                }
+            }
+
+            File.WriteAllLines(caminho, linhas);
+            CarregarUsuarios();
+            LimparCampos();
+            MessageBox.Show("Usuário excluído com sucesso.");
         }
     }
 }
