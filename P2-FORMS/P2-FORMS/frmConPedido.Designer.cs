@@ -100,6 +100,7 @@
             Controls.Add(label1);
             Name = "frmConPedido";
             Text = "Form1";
+            Load += this.frmConPedido_Load;
             ResumeLayout(false);
             PerformLayout();
         }

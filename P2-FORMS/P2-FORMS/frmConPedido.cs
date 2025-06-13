@@ -16,5 +16,10 @@ namespace P2_FORMS
         {
             InitializeComponent();
         }
+
+        private void frmConPedido_Load(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

@@ -20,3 +20,4 @@ C:\Users\kagab\source\repos\P2-PROG\P2-FORMS\P2-FORMS\obj\Debug\net9.0-windows\P
 C:\Users\kagab\source\repos\P2-PROG\P2-FORMS\P2-FORMS\obj\Debug\net9.0-windows\P2_FORMS.frmCadProduto.resources
 C:\Users\kagab\source\repos\P2-PROG\P2-FORMS\P2-FORMS\obj\Debug\net9.0-windows\P2_FORMS.frmCadUsuario.resources
 C:\Users\kagab\source\repos\P2-PROG\P2-FORMS\P2-FORMS\obj\Debug\net9.0-windows\P2_FORMS.frmPrincipal.resources
+C:\Users\kagab\source\repos\P2-PROG\P2-FORMS\P2-FORMS\obj\Debug\net9.0-windows\P2_FORMS.frmConPedido.resources
