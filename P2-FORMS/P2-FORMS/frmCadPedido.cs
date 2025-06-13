@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace P2_FORMS
 {
-    public partial class frmCadPedido: Form
+    public partial class frmCadPedido : Form
     {
         private string usuarioLogado;
 
@@ -22,7 +22,22 @@ namespace P2_FORMS
 
         private void frmCadPedido_Load(object sender, EventArgs e)
         {
-            
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
